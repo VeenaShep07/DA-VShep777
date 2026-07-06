@@ -30,7 +30,10 @@ When you want the image or file to show inside the README, just uploading the fi
 
 - [Python]
 [Python 1](https://raw.githubusercontent.com/VeenaShep07/DA-VShep777/refs/heads/main/Python_coding.ipynb)
+<br><br>
+<br>
 
+[Python 2](https://raw.githubusercontent.com/VeenaShep07/VeenaShep07/refs/heads/main/Untitled23.ipynb)
 
 
 
