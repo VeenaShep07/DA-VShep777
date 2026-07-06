@@ -33,7 +33,7 @@ When you want the image or file to show inside the README, just uploading the fi
 <br><br>
 <br>
 
-[Python 2](https://github.com/VeenaShep07/DA-VShep777/blob/main/Untitled23.ipynb) 
+[Python 2](https://github.com/VeenaShep07/VeenaShep07/blob/main/Untitled23.ipynb) 
 
 
 
