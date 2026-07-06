@@ -16,6 +16,11 @@ I’m building my portfolio to show the projects I created during my DA course.
 - [Excel] – short one‑line description
 - <br>
 [Excel Table 1](https://github.com/VeenaShep07/DA-VShep777/blob/main/Excel_1.png?raw=true)
+<br>
+When you want the image or file to show inside the README, just uploading the file is not enough. The filename goes inside the brackets, and the path or URL goes in the parentheses, so GitHub knows which image or file to display.
+
+
+
 
 <br>
 - [Tableau]
